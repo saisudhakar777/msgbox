@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-image: url("msg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    font-size: 70px;
+    color:black ;
+}
